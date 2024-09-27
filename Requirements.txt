@@ -1,0 +1,18 @@
+## Requirements
+The following libraries are required for running this project:
+
+```bash
+pandas
+numpy
+matplotlib
+seaborn
+nltk
+scikit-learn
+wordcloud
+```
+
+You can install these libraries using the following command:
+
+```bash
+pip install pandas numpy matplotlib seaborn nltk scikit-learn wordcloud
+```
